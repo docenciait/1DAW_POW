@@ -11,3 +11,5 @@ El SEO se basa en tres pilares fundamentales que deben trabajarse de forma conju
 * Autoridad: Reputación del sitio, medida principalmente a través de backlinks de calidad.
 
 * Gráfico sugerido: Un diagrama de tres círculos interconectados que representan cada pilar (SEO técnico, contenidos y autoridad), mostrando su interrelación para formar una estrategia SEO sólida.  
+
+![](img/fases-seo.webp)
