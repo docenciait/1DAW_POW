@@ -1,10 +1,20 @@
 # Tema 1: Pilares en una Estrategia SEO: SEO Técnico, Contenidos y Autoridad
 
-1. Introducción
+## ¿Qué es el SEO? Explicación general 
 
-# ¿Qué es el SEO?
+El **SEO (Search Engine Optimization)**, u Optimización para Motores de Búsqueda, es un conjunto de técnicas y prácticas destinadas a mejorar la visibilidad y posicionamiento de un sitio web en los motores de búsqueda, como Google, Bing o Yahoo. 
 
-El **SEO** (Search Engine Optimization), o **Optimización para Motores de Búsqueda**, es un conjunto de técnicas y prácticas destinadas a mejorar la **visibilidad** y **posicionamiento** de un sitio web en los motores de búsqueda, como Google, Bing o Yahoo. El objetivo principal del SEO es que las páginas de un sitio aparezcan en los primeros resultados cuando los usuarios realizan búsquedas relacionadas con los productos, servicios o información que ofrece dicho sitio.
+El objetivo principal del SEO es que las páginas de un sitio aparezcan en los primeros resultados cuando los usuarios realizan búsquedas relacionadas con los productos, servicios o información que ofrece dicho sitio.
+
+El **SEO es el proceso de mejorar un sitio web para aumentar su visibilidad en las páginas de resultados de los motores de búsqueda (SERP, search engine results page o página de resultados del buscador)**. Cuanto más alto aparezca un sitio en las SERP, más probable es que los usuarios hagan clic en él. 
+
+Los **motores de búsqueda utilizan algoritmos complejos que evalúan múltiples factores para determinar la relevancia de un sitio web frente a una consulta de búsqueda**. Estos factores incluyen tanto los aspectos técnicos como la calidad del contenido y la autoridad del sitio.
+
+Una estrategia SEO eficaz se basa en equilibrar los tres pilares siguientes:
+
+1) Asegurarse de que el sitio web es técnicamente sólido
+2) Que el contenido es relevante y de alta calidad 
+3) Que otros sitios de confianza están enlazando al contenido
 
 ## ¿Cómo funciona el SEO?
 
@@ -36,16 +46,3 @@ El SEO es crucial porque la mayoría de las personas no pasa de la primera pági
 - **Conseguir más clientes potenciales** o conversiones.
 
 En resumen, el SEO es una herramienta fundamental para cualquier sitio web que busque destacar en Internet, ya que mejora la posición en los motores de búsqueda y, con ello, la visibilidad y el tráfico orgánico.
-
-
-El SEO se basa en tres pilares fundamentales que deben trabajarse de forma conjunta para mejorar la visibilidad de un sitio web en los motores de búsqueda. Estos pilares son:
-
-* SEO técnico: Optimización de la estructura interna y rendimiento del sitio.
-
-* Contenidos: Creación de contenido valioso y relevante para los usuarios.
-
-* Autoridad: Reputación del sitio, medida principalmente a través de backlinks de calidad.
-
-* Gráfico sugerido: Un diagrama de tres círculos interconectados que representan cada pilar (SEO técnico, contenidos y autoridad), mostrando su interrelación para formar una estrategia SEO sólida.  
-
-![](img/fases-seo.webp)
