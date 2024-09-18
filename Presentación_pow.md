@@ -31,3 +31,6 @@ TOTALES: 50 HORAS
 16. Optimización On-Page y Estrategias de Redacción para SEO: Cómo Mejorar tu posicionamiento en Motores de Búsqueda.
 17. Herramientas para el análisis.
 18. Gestión SEO en CMSs.
+
+# CRITERIOS 
+
