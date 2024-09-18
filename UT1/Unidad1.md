@@ -46,3 +46,5 @@ El SEO es crucial porque la mayoría de las personas no pasa de la primera pági
 - **Conseguir más clientes potenciales** o conversiones.
 
 En resumen, el SEO es una herramienta fundamental para cualquier sitio web que busque destacar en Internet, ya que mejora la posición en los motores de búsqueda y, con ello, la visibilidad y el tráfico orgánico.
+
+![](img/fases-seo.webp)
