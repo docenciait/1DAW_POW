@@ -111,7 +111,7 @@ Utiliza una herramienta como GTMetrix para analizar el rendimiento de un sitio w
 
 #### Ejercicio 2
 
-[](img/devtools.PNG)
+![](img/devtools.PNG)
 
 Utiliza la herramienta de Google Dev Tools pulsando F12 con la aplicación Lighthouse.
 
