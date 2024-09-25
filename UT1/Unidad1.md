@@ -89,26 +89,50 @@ La autoridad de un sitio web es un factor clave para su clasificación en los mo
 
 ## Ejercicio 1
 
-### Instrucciones:
 
-1. Escoge un sitio web: Selecciona un sitio web de tu elección (puede ser uno que administres o un sitio público). Asegúrate de que tenga al menos cinco páginas o secciones diferentes para analizar.
 
-3. Análisis de SEO Técnico: Realiza una auditoría técnica del sitio utilizando las siguientes herramientas:
-
-- Google PageSpeed Insights (https://developers.google.com/speed/pagespeed/insights): Evalúa la velocidad de carga del sitio tanto en dispositivos móviles como en escritorio. Anota las recomendaciones.
-
-- Mobile-Friendly Test de Google (https://search.google.com/test/mobile-friendly): Verifica si el sitio está optimizado para dispositivos móviles.
-
-- Herramientas de inspección del navegador: Utiliza las herramientas de inspección de tu navegador (F12 en Chrome) para revisar el código HTML, asegurándote de que las etiquetas están bien organizadas (H1, H2, alt en imágenes, meta-descripciones, etc.).
-
-- Sitemap y robots.txt: Comprueba si el sitio tiene un archivo sitemap.xml accesible y si el archivo robots.txt está configurado correctamente.
 
 ### Tareas:
 
-- Anota las áreas que requieren optimización técnica (ej. mejora de velocidad, problemas de compatibilidad móvil, URLs mal estructuradas).
+#### Ejercicio 1: 
+Utiliza una herramienta como GTMetrix para analizar el rendimiento de un sitio web que elijas.
 
-- Escribe una breve propuesta de acciones correctivas.
+- ¿Qué métricas de rendimiento (performance metrics) tiene el sitio que elegiste? Anota en un excel el nombre de cada propiedad, una breve descripción y su valor. Pon en rojo o verde pla celda en el color adecuado según su valoración.
 
-## Ejercicio 2. Google Keys
+- Averigua la información sobre el GTmetrix Grade en cuanto a sus parámetros de Performance y Structure, poniendo una breve descripción de los mismos. Indícalo en el excel
 
-[Google Keys](https://www.brandwatch.com/es/blog/operadores-de-busqueda-en-google/)
+- Análogo para la información dada por Web Vitals, existen tres parámetros y y también tendrás que anotarlos y hacer una breve descripción de los mismo en el excel.
+
+- Compara los datos con la web de tu compañero.
+
+- ¿Cuál serían las mejoras de la web que has visitado?
+
+[](img/gtmetrix.PNG)
+
+#### Ejercicio 2
+
+[](img/devtools.PNG)
+
+Utiliza la herramienta de Google Dev Tools pulsando F12 con la aplicación Lighthouse.
+
+Gnera un informe deLighthouse con la opción de Navegación predeterminada, con las categorias por defecto y primero con Ordenador y luego con Móvil. Compara las métricas de rendimiento.
+
+
+#### Ejercicio 4
+
+Análisis de estructura del sitio con Screaming Frog.
+
+Usar la versión gratuita de Screaming Frog SEO Spider (https://www.screamingfrog.co.uk/seo-spider/) para rastrear la estructura de un sitio.
+
+- Descarga y analiza un sitio web.
+- Verifica si hay errores de rastreo (páginas que no se pueden indexar).
+- Comenta en clase los errores y propone soluciones.
+
+#### Ejercicio 5
+
+Utiliza la herramienta gratuita Mobile-Friendly Test de Google (https://search.google.com/test/mobile-friendly).
+
+
+- Comprueba si un sitio web es compatible con dispositivos móviles.
+- Si no es compatible, señala los problemas que detecta la herramienta.
+- Haz sugerencias para mejorar la compatibilidad móvil.
