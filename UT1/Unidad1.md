@@ -85,19 +85,13 @@ La autoridad de un sitio web es un factor clave para su clasificación en los mo
 
 ---
 
-# Ejercicios
-
-## Ejercicio 1
-
-
-
 
 ### Tareas:
 
 #### Ejercicio 1: 
 Utiliza una herramienta como GTMetrix para analizar el rendimiento de un sitio web que elijas.
 
-- ¿Qué métricas de rendimiento (performance metrics) tiene el sitio que elegiste? Anota en un excel el nombre de cada propiedad, una breve descripción y su valor. Pon en rojo o verde pla celda en el color adecuado según su valoración.
+- ¿Qué métricas de rendimiento (performance metrics) tiene el sitio que elegiste? Anota en un excel el nombre de cada propiedad, una breve descripción y su valor. Pon en rojo o verde la celda en el color adecuado según su valoración.
 
 - Averigua la información sobre el GTmetrix Grade en cuanto a sus parámetros de Performance y Structure, poniendo una breve descripción de los mismos. Indícalo en el excel
 
@@ -113,26 +107,16 @@ Utiliza una herramienta como GTMetrix para analizar el rendimiento de un sitio w
 
 ![](img/devtools.PNG)
 
-Utiliza la herramienta de Google Dev Tools pulsando F12 con la aplicación Lighthouse.
-
-Gnera un informe deLighthouse con la opción de Navegación predeterminada, con las categorias por defecto y primero con Ordenador y luego con Móvil. Compara las métricas de rendimiento.
-
-
-#### Ejercicio 4
-
-Análisis de estructura del sitio con Screaming Frog.
-
-Usar la versión gratuita de Screaming Frog SEO Spider (https://www.screamingfrog.co.uk/seo-spider/) para rastrear la estructura de un sitio.
-
-- Descarga y analiza un sitio web.
-- Verifica si hay errores de rastreo (páginas que no se pueden indexar).
-- Comenta en clase los errores y propone soluciones.
-
-#### Ejercicio 5
-
-Utiliza la herramienta gratuita Mobile-Friendly Test de Google (https://search.google.com/test/mobile-friendly).
+- Utiliza la herramienta de Google Dev Tools pulsando F12 y ve a Estadísticas de Rendimiento.
+- Navega hasta la página usada en Ejercicio 1
+- Mide la carga de la páginas en el desplegable del botón rojo 
+- Compara los resultados de las estadísticas con los del Ejercicio 1.
 
 
-- Comprueba si un sitio web es compatible con dispositivos móviles.
-- Si no es compatible, señala los problemas que detecta la herramienta.
-- Haz sugerencias para mejorar la compatibilidad móvil.
+#### Ejercicio 3
+
+En Chrome Dev Tools pulsa F12 y en Lightouse realiza lo siguiente:
+
+- Investiga que tipos de informes son Navegación, Tiempo e Instante.
+- Genera los informes de Navegación, Tiempo e Instante tanto para Escritorio como Móvil.
+- Haz una comparativa de estadísticas y sugerencias de mejora de los 6 informes generados 
