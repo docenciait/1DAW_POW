@@ -423,7 +423,16 @@ Para optimizar aún más esta página HTML, considera agregar lo siguiente:
 
 # Ficheros `robots.txt` y `sitemap.xml`:
 
-En la optimización SEO, los archivos `robots.txt` y `sitemap.xml` son dos elementos esenciales que ayudan a los motores de búsqueda a rastrear y comprender mejor el contenido de un sitio web. Vamos a detallar cada uno de ellos:1. Archivo `robots.txt`El archivo `robots.txt` es un archivo de texto plano que se coloca en la raíz del dominio de un sitio web (por ejemplo, `https://tu-dominio.com/robots.txt`). Su principal función es proporcionar instrucciones a los robots de los motores de búsqueda sobre qué páginas o secciones del sitio web deben rastrear y cuáles no. Esto permite tener control sobre el contenido que se desea indexar y el que no es relevante para el SEO.Sintaxis del archivo `robots.txt`El `robots.txt` está compuesto por reglas que los robots interpretan en una estructura sencilla. Los elementos clave son: 
+En la optimización SEO, los archivos `robots.txt` y `sitemap.xml` son dos elementos esenciales que ayudan a los motores de búsqueda a rastrear y comprender mejor el contenido de un sitio web. Vamos a detallar cada uno de ellos:
+
+- 1. Archivo `robots.txt`El archivo `robots.txt` es un archivo de texto plano que se coloca en la raíz del dominio de un sitio web (por ejemplo, `https://tu-dominio.com/robots.txt`). 
+
+Su principal función es proporcionar instrucciones a los robots de los motores de búsqueda sobre qué páginas o secciones del sitio web deben rastrear y cuáles no. 
+
+Esto permite tener control sobre el contenido que se desea indexar y el que no es relevante para el SEO.
+
+Sintaxis del archivo `robots.txt`El `robots.txt` está compuesto por reglas que los robots interpretan en una estructura sencilla. Los elementos clave son: 
+
 - **User-agent** : Especifica a qué bot de rastreo va dirigida la regla (por ejemplo, Googlebot para Google, Bingbot para Bing). Se pueden establecer reglas para todos los robots con `User-agent: *`.
  
 - **Disallow** : Define las páginas o directorios que no se deben rastrear.
