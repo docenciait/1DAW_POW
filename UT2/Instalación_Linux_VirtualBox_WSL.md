@@ -152,7 +152,9 @@ sudo apt update && sudo apt upgrade -y
 ### Video de Instalación 
 
 Para una demostración visual del proceso, te recomiendo este video de YouTube, que cubre paso a paso la instalación de WSL2 y Ubuntu en Windows 11:
- 
-- [Instalar Ubuntu 22.04 en WSL2 - Video Tutorial](https://www.youtube.com/watch?v=video_id)
 
-Este video te guiará por cada paso y muestra cómo ejecutar todos los comandos en PowerShell y en la terminal de Ubuntu.
+> UPDATE! Los videos sólo van a usar lo que viene en la web Microsoft : [Instalación de WSL2](https://learn.microsoft.com/es-es/windows/wsl/install-manual)
+ 
+- [Instalar Ubuntu 22.04 en WSL2 - Video Tutorial](https://www.youtube.com/watch?v=Hmws650D2WI)
+
+Este video está más actualizado. Podéis usar los subtítulos.
