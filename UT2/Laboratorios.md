@@ -1,4 +1,4 @@
-# Utilizando esta página ejemplo
+# LAB1: Utilizando esta página ejemplo
 
 ```html
 <!DOCTYPE html>
@@ -85,7 +85,8 @@ seoanalyze http://127.0.0.1:8000/ --output-format html
 ```
 
 --- 
-### Requisitos del Laboratorio 
+### LAB2: Requisitos del Laboratorio 
+
 1. Optimización de Etiquetas en `mysite.html`
 Se parte de una página HTML simple que contiene:
 
