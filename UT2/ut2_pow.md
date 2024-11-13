@@ -195,6 +195,7 @@ Optimizar un documento HTML para SEO técnico requiere el uso adecuado de varias
 - **Uso SEO** : Las redirecciones automáticas se deben usar con cuidado; si es necesario redirigir, es mejor hacerlo en el servidor (redirección 301 o 302).
 
 23. `<link rel="alternate" hreflang="es" href="URL">` 
+
 - **Descripción** : Indica versiones alternas del contenido en diferentes idiomas y regiones.
  
 - **Atributos** : 
@@ -205,16 +206,19 @@ Optimizar un documento HTML para SEO técnico requiere el uso adecuado de varias
 - **Uso SEO** : Importante para SEO multilingüe, permite a los motores de búsqueda identificar las versiones regionales y lingüísticas de la página.
 
 24. `<meta http-equiv="x-ua-compatible" content="IE=edge">` 
+
 - **Descripción** : Obliga a los navegadores antiguos de Internet Explorer a renderizar con el último motor.
  
 - **Uso SEO** : No afecta directamente el SEO, pero ayuda a mejorar la compatibilidad y experiencia en navegadores obsoletos.
 
 25. `<noscript>` 
+
 - **Descripción** : Proporciona contenido alternativo si el navegador tiene JavaScript deshabilitado.
  
 - **Uso SEO** : Útil en páginas que dependen mucho de JavaScript, ya que garantiza que el contenido principal sigue siendo accesible para los rastreadores.
 
 26. `<meta property="article:*">` 
+
 - **Descripción** : Parte de Open Graph, específica para contenido de tipo artículo.
  
 - **Atributos** : 
@@ -229,19 +233,27 @@ Optimizar un documento HTML para SEO técnico requiere el uso adecuado de varias
   - `article:tag`: Etiquetas del artículo.
  
 - **Uso SEO** : Mejora la presentación en redes sociales y ayuda a categorizar artículos en plataformas que lo soportan.
+
 27. `<figure>` y `<figcaption>` 
+
 - **Descripción** : Agrupa contenido visual como imágenes y proporciona subtítulos descriptivos.
  
 - **Uso SEO** : Permite describir mejor los contenidos visuales y optimiza la accesibilidad.
+
 28. `<data>` y `<time>` 
+
 - **Descripción** : Etiquetas que representan datos específicos (como fechas y tiempos).
  
 - **Uso SEO** : Estandariza la representación de datos en la página, útil para ciertos tipos de resultados enriquecidos.
+
 29. `<address>` 
+
 - **Descripción** : Define información de contacto (como dirección y datos de la empresa).
  
 - **Uso SEO** : Proporciona información estructurada para motores de búsqueda y ayuda en SEO local.
+
 30. `<input type="search" />` y `<label>` 
+
 - **Descripción** : Elementos para formularios de búsqueda y etiquetado.
  
 - **Uso SEO** : Permite a los motores de búsqueda identificar funciones de búsqueda internas en un sitio web, lo cual puede mejorar la indexación y la experiencia de usuario.
@@ -411,7 +423,16 @@ Para optimizar aún más esta página HTML, considera agregar lo siguiente:
 
 # Ficheros `robots.txt` y `sitemap.xml`:
 
-En la optimización SEO, los archivos `robots.txt` y `sitemap.xml` son dos elementos esenciales que ayudan a los motores de búsqueda a rastrear y comprender mejor el contenido de un sitio web. Vamos a detallar cada uno de ellos:1. Archivo `robots.txt`El archivo `robots.txt` es un archivo de texto plano que se coloca en la raíz del dominio de un sitio web (por ejemplo, `https://tu-dominio.com/robots.txt`). Su principal función es proporcionar instrucciones a los robots de los motores de búsqueda sobre qué páginas o secciones del sitio web deben rastrear y cuáles no. Esto permite tener control sobre el contenido que se desea indexar y el que no es relevante para el SEO.Sintaxis del archivo `robots.txt`El `robots.txt` está compuesto por reglas que los robots interpretan en una estructura sencilla. Los elementos clave son: 
+En la optimización SEO, los archivos `robots.txt` y `sitemap.xml` son dos elementos esenciales que ayudan a los motores de búsqueda a rastrear y comprender mejor el contenido de un sitio web. Vamos a detallar cada uno de ellos:
+
+- 1. Archivo `robots.txt`El archivo `robots.txt` es un archivo de texto plano que se coloca en la raíz del dominio de un sitio web (por ejemplo, `https://tu-dominio.com/robots.txt`). 
+
+Su principal función es proporcionar instrucciones a los robots de los motores de búsqueda sobre qué páginas o secciones del sitio web deben rastrear y cuáles no. 
+
+Esto permite tener control sobre el contenido que se desea indexar y el que no es relevante para el SEO.
+
+Sintaxis del archivo `robots.txt`El `robots.txt` está compuesto por reglas que los robots interpretan en una estructura sencilla. Los elementos clave son: 
+
 - **User-agent** : Especifica a qué bot de rastreo va dirigida la regla (por ejemplo, Googlebot para Google, Bingbot para Bing). Se pueden establecer reglas para todos los robots con `User-agent: *`.
  
 - **Disallow** : Define las páginas o directorios que no se deben rastrear.
@@ -651,3 +672,80 @@ Explicación de cada componente:
 - sitemap.xml: Enumera las URLs importantes de la página, con información sobre la frecuencia de actualización y prioridad, ayudando a los motores de búsqueda a entender la estructura y relevancia de cada página.
 
 Este conjunto proporciona una base optimizada para SEO técnico que debería ser eficaz en la mayoría de los escenarios.
+
+ejemplo básico de cómo implementar un bloque de datos estructurados en formato `JSON-LD`, que ayuda a los motores de búsqueda a comprender mejor el contenido de tu página web. Este ejemplo es para un tipo de contenido común, como un negocio local.
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Nombre del Negocio",
+  "image": "https://ejemplo.com/logo.jpg",
+  "url": "https://ejemplo.com",
+  "telephone": "+34 123 456 789",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle Ejemplo, 123",
+    "addressLocality": "Ciudad",
+    "addressRegion": "Provincia",
+    "postalCode": "28001",
+    "addressCountry": "ES"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "10:00",
+      "closes": "14:00"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.416775,
+    "longitude": -3.703790
+  },
+  "sameAs": [
+    "https://www.facebook.com/negocio",
+    "https://www.instagram.com/negocio",
+    "https://twitter.com/negocio"
+  ]
+}
+</script>
+```
+
+### Explicación de cada elemento: 
+ 
+- **@context** : Define el contexto de Schema.org.
+ 
+- **@type** : Especifica el tipo de entidad (aquí, un `LocalBusiness`).
+ 
+- **name** : Nombre del negocio.
+ 
+- **image** : URL de una imagen representativa (generalmente el logotipo).
+ 
+- **url** : URL del sitio web del negocio.
+ 
+- **telephone** : Número de teléfono de contacto.
+ 
+- **address** : Información de dirección del negocio.
+ 
+- **openingHoursSpecification** : Horario de apertura y cierre del negocio.
+ 
+- **geo** : Coordenadas geográficas (latitud y longitud) de la ubicación.
+ 
+- **sameAs** : URLs de las redes sociales del negocio (opcional).
+
+Este formato permite que motores de búsqueda como Google comprendan mejor la estructura de la página, lo que puede mejorar su visibilidad y presentación en los resultados de búsqueda.
