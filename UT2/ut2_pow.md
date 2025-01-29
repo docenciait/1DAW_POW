@@ -440,6 +440,7 @@ Sintaxis del archivo `robots.txt`El `robots.txt` está compuesto por reglas que 
 - **Allow** : Permite el rastreo de un archivo específico dentro de un directorio restringido por `Disallow`.
  
 - **Sitemap** : Indica la ubicación del archivo `sitemap.xml`.
+
 Ejemplo de archivo `robots.txt`
 
 ```plaintext
@@ -450,6 +451,7 @@ Allow: /public/allowed-file.html  # Permite el rastreo de un archivo específico
 Sitemap: https://tu-dominio.com/sitemap.xml  # Ubicación del archivo sitemap.xml
 ```
 Consideraciones SEO para `robots.txt` 
+
 - **Evitar el rastreo de contenido irrelevante** : Es útil para bloquear secciones del sitio que no aportan valor en los resultados de búsqueda (e.g., `/admin/`).
  
 - **Optimizar el crawl budget** : En sitios grandes, el `robots.txt` ayuda a ahorrar el presupuesto de rastreo de los robots, concentrándolos en las páginas relevantes.
@@ -460,6 +462,7 @@ Herramientas para probar `robots.txt`Es recomendable probar el archivo `robots.t
 ---
 
 2. Archivo `sitemap.xml`El archivo `sitemap.xml` es un archivo en formato XML que lista todas las páginas importantes de un sitio web que se desean rastrear y, eventualmente, indexar. Este archivo es una especie de “mapa” para los motores de búsqueda, ayudándoles a comprender la estructura del sitio y encontrar nuevas páginas de manera rápida.Estructura del archivo `sitemap.xml`El archivo `sitemap.xml` tiene una estructura jerárquica, donde cada URL que se quiera indexar se coloca en una entrada `<url>`. Los elementos importantes en un `sitemap.xml` son: 
+
 - **loc** : Contiene la URL de la página.
  
 - **lastmod** : Indica la última fecha de modificación de la página, lo que permite a los motores saber si ha habido actualizaciones.
@@ -467,6 +470,7 @@ Herramientas para probar `robots.txt`Es recomendable probar el archivo `robots.t
 - **changefreq** : Sugerencia sobre la frecuencia con la que la página cambia (por ejemplo, `daily`, `weekly`, `monthly`).
  
 - **priority** : Indica la prioridad de la URL dentro del sitio (rango de 0.0 a 1.0).
+
 Ejemplo de archivo `sitemap.xml`
 
 ```xml
