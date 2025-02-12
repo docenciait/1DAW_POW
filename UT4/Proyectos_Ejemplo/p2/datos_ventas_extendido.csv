@@ -1,0 +1,31 @@
+Fecha,Producto,Cantidad,Precio unitario,Cliente,Region,Canal de venta
+2023-01-05,Camiseta,10,20,Cliente A,Norte,Online
+2023-01-10,Pantalón,5,50,Cliente B,Sur,Tienda física
+2023-01-15,Zapatos,2,100,Cliente C,Este,Online
+2023-01-20,Camiseta,12,20,Cliente D,Oeste,Tienda física
+2023-01-25,Pantalón,8,50,Cliente E,Norte,Online
+2023-01-30,Zapatos,3,100,Cliente F,Sur,Tienda física
+2023-02-01,Camiseta,15,20,Cliente A,Norte,Online
+2023-02-05,Pantalón,8,50,Cliente B,Sur,Tienda física
+2023-02-10,Zapatos,3,100,Cliente C,Este,Online
+2023-02-15,Camiseta,18,20,Cliente D,Oeste,Tienda física
+2023-02-20,Pantalón,10,50,Cliente E,Norte,Online
+2023-02-25,Zapatos,5,100,Cliente F,Sur,Tienda física
+2023-03-01,Camiseta,20,20,Cliente A,Norte,Online
+2023-03-05,Pantalón,12,50,Cliente B,Sur,Tienda física
+2023-03-10,Zapatos,5,100,Cliente C,Este,Online
+2023-03-15,Camiseta,22,20,Cliente D,Oeste,Tienda física
+2023-03-20,Pantalón,15,50,Cliente E,Norte,Online
+2023-03-25,Zapatos,8,100,Cliente F,Sur,Tienda física
+2023-04-01,Camiseta,25,20,Cliente A,Norte,Online
+2023-04-05,Pantalón,15,50,Cliente B,Sur,Tienda física
+2023-04-10,Zapatos,8,100,Cliente C,Este,Online
+2023-04-15,Camiseta,28,20,Cliente D,Oeste,Tienda física
+2023-04-20,Pantalón,18,50,Cliente E,Norte,Online
+2023-04-25,Zapatos,10,100,Cliente F,Sur,Tienda física
+2023-05-01,Camiseta,30,20,Cliente A,Norte,Online
+2023-05-05,Pantalón,18,50,Cliente B,Sur,Tienda física
+2023-05-10,Zapatos,10,100,Cliente C,Este,Online
+2023-05-15,Camiseta,32,20,Cliente D,Oeste,Tienda física
+2023-05-20,Pantalón,20,50,Cliente E,Norte,Online
+2023-05-25,Zapatos,12,100,Cliente F,Sur,Tienda física
