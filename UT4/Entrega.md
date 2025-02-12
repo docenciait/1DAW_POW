@@ -34,4 +34,7 @@ El proyecto se calificará sobre 10 puntos según los siguientes criterios:
 
 - Se debe adjuntar el archivo CSV generado.
 
-- La fecha límite de entrega es 21 de Febrero a las 11.00h (Vía Aula Virtual)
+- La fecha límite de entrega es 21 de Febrero a las 11.00h (Vía Aula Virtual - Tarea Parcial Segundo Trimestre)
+- Después se realizará una sesión de evaluación los días 26 y 27 para realización de preguntas a los alumnos sobre su trabajo.
+- La no entrega en fecha y hora será motivo de califidación NP.
+- Si la entrega no se corresponde a lo solicitado o tiene problemas para abrirse o de formato ilegible. La calificación será de 1.
