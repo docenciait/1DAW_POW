@@ -128,16 +128,16 @@ Factores que impactan en la experiencia del usuario y la interacción con la pá
 **Fuentes y Sitios para Obtener Métricas SEO** 
 Si quieres acceder a datos y referencias actualizadas sobre estos parámetros, aquí tienes algunos de los mejores sitios:
  
-1. **[Google Search Central]() ** 
+1. **[Google Search Central](https://developers.google.com/search?hl=es) ** 
   - Información oficial de Google sobre indexación, rastreo y optimización.
  
-2. **[Google Analytics]() ** 
+2. **[Google Analytics](https://marketingplatform.google.com/home) ** 
   - Datos sobre tráfico, tasa de rebote, sesiones y conversiones.
  
-3. **[Google Search Console]() ** 
+3. **[Google Search Console](https://search.google.com/search-console/about) ** 
   - Información sobre rendimiento en búsquedas, CTR y errores de indexación.
  
-4. **[Moz]() ** 
+4. **[Moz](https://moz.com/moz-pro-free-trial?utm_medium=cpc&utm_source=bing&utm_campaign=Brand%20-%20Exact%20|%20UK&utm_adgroup=Brand%20-%20Exact%20-%20Moz&utm_term=moz&msclkid=0eb6ec627bd015a3abb58bd7bda8e4ab&utm_content=Brand%20-%20Exact%20-%20Moz) ** 
   - Guías y herramientas sobre SEO, DA, PA y backlinks.
  
 5. **[Ahrefs](https://ahrefs.com/) ** 
@@ -146,10 +146,10 @@ Si quieres acceder a datos y referencias actualizadas sobre estos parámetros, a
 6. **[SEMrush](https://www.semrush.com/) ** 
   - Herramientas avanzadas para analizar competencia, tráfico y backlinks.
  
-7. **[PageSpeed Insights]() ** 
+7. **[PageSpeed Insights](https://pagespeed.web.dev/) ** 
   - Evaluación de Core Web Vitals y velocidad de carga.
  
-8. **[Screaming Frog]() ** 
+8. **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) ** 
   - Herramienta de auditoría SEO técnica para analizar enlaces, metaetiquetas y más.
  
 9. **[Search Engine Journal](https://www.searchenginejournal.com/) ** 
