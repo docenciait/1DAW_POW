@@ -32,5 +32,11 @@ TOTALES: 50 HORAS
 17. Herramientas para el análisis.
 18. Gestión SEO en CMSs.
 
-# CRITERIOS 
+# EVALUACIÓN
+
+- Cada trimestre será un examen o proyecto que corresponde a la evaluación ordinaria.
+- Cada examen o proyecto tiene asociados los RAs correspondientes y serán superados si la evaluación es igual o mayor a 5.
+- La evaluación ordinaria será superada si supera los cada uno de los exámenes con 5 o más.
+- En caso de que algún examen o proyecto no esté superado la evaluación ordinaria estará no superada con nota menor que 5.
+- El profesor propondrá en el caso de no superar la ordinaria un examen o proyecto para superar el resto de RAs. y que será calificado en extraordinaria.
 
